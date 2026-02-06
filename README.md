@@ -1,5 +1,6 @@
 <!--
-**Tiffnyz/Tiffnyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if you're looking at my readme code, hello :p
+
 
 Here are some ideas to get you started:
 
