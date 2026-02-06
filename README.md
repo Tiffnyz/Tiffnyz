@@ -12,23 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">
   Hi, I'm Tiffany! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
 
-### Spotify Playing 🎧
+<!--  ### Spotify Playing 🎧
 
-[![Now Playing](https://novatorem-ashen-ten.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333)](https://www.last.fm/user/tytiffany)
+  [![Now Playing](https://novatorem-ashen-ten.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333)](https://www.last.fm/user/tytiffany)  -->
 
+<div align="center">
 <a href="https://www.last.fm/user/tytiffany">
   <img 
-    src="https://novatorem-ashen-ten.vercel.app/api/orchestrator?background_type=blur_light"
-    style="width:420px; height:auto;"
+    src="https://novatorem-ashen-ten.vercel.app/api/orchestrator?show_status=true"
+    style="width:520px; height:auto;"
   />
 </a>
-</p>
-
+</div>
 
 ## 🌸 About Me
 
@@ -37,7 +38,6 @@ Here are some ideas to get you started:
 - Interested in backend systems and applied machine learning 
 - Interests: poker ♠️, climbing 🧗‍♀️, markets 📈, dance 💃, & matcha 🍵!
 
----
 
 <h2> 💻 Skills </h2>
 
@@ -96,21 +96,11 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
 
----
-
-## 🌱 Currently Learning
-
-- Quant trading strategies  
-- Low latency systems  
-- ML for markets  
-- Distributed systems  
-
----
 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/tiffanyyung508/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="https://github.com/Tiffnyz">
@@ -118,10 +108,9 @@ Here are some ideas to get you started:
 </a>
 </p>
 
----
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700"/>
+  <img src="assets/windchime.gif" width="600">
 </p>
 
 
