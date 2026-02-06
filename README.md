@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="assets/windchime.gif" width="600">
+  <img src="2B120B65-934C-4B53-AEBB-65FE23A7B4FE.gif" width="600">
 </p>
 
 
