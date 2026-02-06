@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 
 ## 🌸 About Me
 
-- CS + Math @ Purdue
-- Prev. SDE Intern @ Amazon Web Services (Summer 2025) -- Worked on ticketing & issue management API
-- Interested in backend systems and applied machine learning 
-- Interests: poker ♠️, climbing 🧗‍♀️, markets 📈, dance 💃, & matcha 🍵!
+- 💻 CS + Math @ Purdue
+
+- 💼 Prev. SDE Intern @ Amazon Web Services (Summer 2025) - Worked on ticketing & issue management API
+- 💡 Interested in backend systems and applied machine learning 
+- 🧗‍♀️ Hobbies & interests: poker, climbing, markets, dance, & matcha 🍵!
+- 📚 Current courses: CS381 Intro to the Analysis of Algorithms, CS252 Systems Programming, CS348 Information Systems, & CS334 Intro to Computer Graphics
 
 
 <h2> 💻 Skills </h2>
