@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   [![Now Playing](https://novatorem-ashen-ten.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333)](https://www.last.fm/user/tytiffany)  -->
 
-<!-- <div align="center">
+<div align="center">
 <a href="https://www.last.fm/user/tytiffany">
   <img 
     src="https://novatorem-ashen-ten.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333&show_status=true"
@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 </a>
 </div>
 
--->
-
-[![Now Playing](https://novatorem-ashen-ten.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333)](https://www.last.fm/user/tytiffany)
 
 ## 🌸 About Me
 
