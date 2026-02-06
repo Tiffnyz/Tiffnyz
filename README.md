@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Now Playing](https://novatorem-tiffnyzs-projects.vercel.app/api/spotify)]
+[![Now Playing](https://novatorem-tiffnyzs-projects.vercel.app/api/spotify)](https://www.last.fm/user/tytiffany)
 
