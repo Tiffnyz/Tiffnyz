@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.last.fm/user/tytiffany">
   <img 
     src="https://novatorem-ashen-ten.vercel.app/api/orchestrator?show_status=true"
-    style="width:520px; height:auto;"
+    style="width:600px; height:auto;"
   />
 </a>
 </div>
