@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Last.fm](novatorem-ashen-ten.vercel.app)](https://www.last.fm/user/tytiffany)
+[![Now Playing](https://novatorem-git-main-tiffnyzs-projects.vercel.app/)](https://www.last.fm/user/tytiffany)
 
