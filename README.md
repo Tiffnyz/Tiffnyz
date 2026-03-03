@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 💼 Prev. SDE Intern @ Amazon Web Services (Summer 2025) - Worked on ticketing & issue management API
 - 💡 Interested in backend systems and applied machine learning 
-- 🧗‍♀️ Hobbies & interests: poker, climbing, LinkedIn Queens, prediction markets, dance, & matcha 🍵!
+- 🧗‍♀️ Hobbies & interests: poker, climbing, LinkedIn Queens, prediction markets, dance, & travel!
 - 📚 Current courses: CS381 Intro to the Analysis of Algorithms, CS252 Systems Programming, CS348 Information Systems, & CS334 Intro to Computer Graphics
 
 
