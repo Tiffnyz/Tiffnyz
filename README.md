@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## 🌸 About Me
+## 🌸 about me
 
 - 💻 cs + math @ purdue
 - 🎟️ prev. sde intern @ aws (summer 2025) - worked on amazon's internal native aws ticketing & issue management api!
