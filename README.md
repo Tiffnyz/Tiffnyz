@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  Hi, I'm Tiffany! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  hi, i'm tiffany! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 
 
@@ -35,17 +35,17 @@ Here are some ideas to get you started:
 
 ## 🌸 About Me
 
-- 💻 CS + Math @ Purdue
-- 🎟️ Prev. SDE Intern @ Amazon Web Services (Summer 2025) - Worked on ticketing & issue management API
-- 💼 Returning SDE Intern @ Amazon Web Services (Summer 2026)
-- 💡 Interested in backend systems, infra, applied ML, and quant finance
-- 🧗‍♀️ Hobbies & interests: poker, cafe-hopping, LinkedIn Queens, dance, & travel!
-- 📚 Current courses: CS381 Intro to the Analysis of Algorithms, CS252 Systems Programming, CS348 Information Systems, & CS334 Intro to Computer Graphics
+- 💻 cs + math @ purdue
+- 🎟️ prev. sde intern @ aws (summer 2025) - worked on amazon's internal native aws ticketing & issue management api!
+- 💼 returning sde Intern @ aws (summer 2026)
+- 💡 interested in backend systems, infra, applied ml, and quant finance
+- 🧗‍♀️ hobbies & interests: poker, cafe-hopping, linkedin games (i take these v srsly), dance, & travel!
+- 📚 current courses: cs381 - design & analysis of algorithms, cs252 - systems programming, cs348 - information systems, & cs334 - computer graphics
 
 
-<h2> 💻 Skills </h2>
+<h2> 💻 skills </h2>
 
-<h3>Programming Languages</h3>
+<h3>programming languages</h3>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<h3>Frameworks and Tools</h3>
+<h3>frameworks & tools</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ![JUnit](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Twilio](https://img.shields.io/static/v1?style=for-the-badge&message=Twilio&color=F22F46&logo=Twilio&logoColor=FFFFFF&label=)
 
-<h3>Data and Machine Learning</h3>
+<h3>data & ml</h3>
 
 ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
 
 
-## 📫 Connect With Me
+## 📫 connect With me!
 
 <p align="center">
 <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/tiffanyyung508/)">
