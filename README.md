@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 - 💻 cs + math @ purdue
 - 💼 returning sde Intern @ aws (summer 2026)
 - 🎟️ prev. sde intern @ aws (summer 2025) - worked on amazon's internal native aws ticketing & issue management api!
-- 💡 interested in backend systems, infra, applied ml, and quant finance
-- 🧗‍♀️ hobbies: poker, cafe-hopping, linkedin games (i take these v srsly), dance, & travel!
+- 💡 interested in backend systems, infra, machine learning, and quant finance
+- 🧗‍♀️ hobbies: poker, cafe-hopping, linkedin games, dance, & travel!
 - 📚 current courses: cs381 - design & analysis of algorithms, cs252 - systems programming, cs348 - information systems, & cs334 - computer graphics
 
 
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
 
 
-## 📫 connect with me!
+## 📫 connect with me
 
 <p align="center">
 <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/tiffanyyung508/)">
