@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 💻 cs + math @ purdue
 - 💼 returning sde Intern @ aws (summer 2026)
 - 🎟️ prev. sde intern @ aws (summer 2025) - worked on amazon's internal native aws ticketing & issue management api!
-- 💡 interested in backend systems, infra, machine learning, and quant finance
+- 💡 interested in backend infra, ml & agents, robotics, and quant
 - 🧗‍♀️ hobbies: poker, cafe-hopping, linkedin games, dance, & travel!
 - 📚 current courses: cs381 - design & analysis of algorithms, cs252 - systems programming, cs348 - information systems, & cs334 - computer graphics
 
