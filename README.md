@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ## 🌸 about me
 
 - 💻 cs + math @ purdue
-- 💼 returning sde Intern @ aws (summer 2026)
-- 🎟️ prev. sde intern @ aws (summer 2025) - worked on amazon's internal native aws ticketing & issue management api!
+- 💼 returning sde Intern @ aws (summer 2026) - working on search indexing optimization for a globally replicated document store
+- 🎟️ prev. sde intern @ aws (summer 2025) - worked on amazon's internal native aws ticketing & issue management api
 - 💡 interested in backend infra, ml & agents, robotics, and quant
-- 🧗‍♀️ hobbies: poker, cafe-hopping, linkedin games, photography, dance, & travel!
-- 📚 current courses: cs381 - design & analysis of algorithms, cs252 - systems programming, cs348 - information systems, & cs334 - computer graphics
+- 🧗‍♀️ hobbies: poker, puzzles/games, photography, dance, & travel!
+- 📚 recent courses: cs381 - design & analysis of algorithms, cs252 - systems programming, cs348 - information systems, & cs334 - computer graphics
 
 
 <h2> 💻 skills </h2>
