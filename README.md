@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🎟️ sde intern @ aws (summer 2025) - pushed new features to prod for amazon's internal ticketing and issue management api
 - 💡 interested in backend infra, ml & agents, robotics, and quant
 - 🧗‍♀️ hobbies: poker, puzzles/games, photography, dance, & travel!
-- 📚 relevant courses: cs381 - design & analysis of algorithms, cs252 - systems programming, cs348 - information systems, cs251 data structures & algorithms, cs250 computer architecture, cs240 C programming, cs182 discrete math, cs180 object-oriented programming
+- 📚 relevant courses: cs471 - artificial intelligence, cs354 - operating systems, cs381 - design & analysis of algorithms, cs252 - systems programming, cs348 - information systems, cs416 probability & statistics, cs251 data structures & algorithms, cs250 computer architecture, cs240 C programming, cs182 discrete math, cs180 object-oriented programming
 
 
 <h2> 💻 skills </h2>
