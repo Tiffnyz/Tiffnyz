@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 - 💻 cs + math @ purdue
 - 💼 returning sde intern @ aws (summer 2026) - worked on search indexing optimization for a globally replicated document database
 - 🎟️ sde intern @ aws (summer 2025) - pushed new features to prod for amazon's internal ticketing and issue management api
-- 💡 interested in backend infra, ml & agents, robotics, and quant
-- 🧗‍♀️ hobbies: poker, hiking, climbing, photography, & travel!
+- 💡 interested in backend infra, ml & agents, & robotics
+<!-- - 🧗‍♀️ hobbies: poker, hiking, climbing, photography, & travel! -->
 - 📚 relevant courses: cs471 - artificial intelligence, cs354 - operating systems, cs381 - design & analysis of algorithms, cs252 - systems programming, cs348 - information systems, cs416 probability & statistics, cs251 data structures & algorithms, cs250 computer architecture, cs240 C programming, cs182 discrete math, cs180 object-oriented programming
 
 
